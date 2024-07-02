@@ -6,4 +6,4 @@
 - 📫 How to reach me 😏nah
 
 # Github Stats I guess
-[![Gad's GitHub stats](https://github-readme-stats.vercel.app/api?username=GadGadGad&show_icons=true&theme=radical)]
+![Gad's GitHub stats](https://github-readme-stats.vercel.app/api?username=GadGadGad&show_icons=true&theme=radical)
