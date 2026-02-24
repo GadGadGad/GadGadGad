@@ -1,9 +1,17 @@
-# About me 😏
-- 👋 Hi, I’m @GadGadGad
-- 👀 I’m interested in you
-- 🌱 I’m currently learning you
-- 💞️ I’m looking to collaborate on you
-- 📫 How to reach me 😏nah
+# About Me
 
-# Github Stats I guess
-![Gad's GitHub stats](https://github-readme-stats.vercel.app/api?username=GadGadGad&show_icons=true&theme=radical)
+Hi, I'm Tang Nhat (you can call me Gad) — a Computer Science graduate specializing in AI systems and applied machine learning.
+
+I focus on building practical AI solutions, including:
+- LLM applications (RAG, agents, LangChain/LangGraph)
+- Data pipelines & system integration
+- Machine learning & deep learning projects
+- End-to-end deployment of AI services
+
+I enjoy turning real-world problems into scalable AI systems.
+
+# Tech Stack
+Python | PyTorch | LangChain | SQL | FastAPI | Docker | Git
+
+# Contact
+LinkedIn: https://linkedin.com/in/nhat-tang
